@@ -1,0 +1,5 @@
+outs:
+- md5: 2f17a9e8ded0913c35a0368f1149dffa
+  size: 60764
+  hash: md5
+  path: model_brevitas_1_simpl.onnx
